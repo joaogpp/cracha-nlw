@@ -76,3 +76,12 @@ ul {
   gap: 0.5rem;
   justify-content: center;
 }
+
+.icons:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
+
+#userImage:hover {
+  transform: scale(1.2);
+}
